@@ -1,0 +1,28 @@
+@use "../abstracts/colors" as *;
+
+.nav-list {
+    display: flex;
+    gap: 2rem;
+ 
+}
+.nav-link {
+    list-style: none;
+    text-decoration: none;
+    color: none;
+}
+
+.buttons {
+top: 500px;
+left: 26px;
+display: flex;
+gap: 2rem;
+}
+.footer-icons {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.logo-title{
+    display: flex;
+    text-align: center;
+}

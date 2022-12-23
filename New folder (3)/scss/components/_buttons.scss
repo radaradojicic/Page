@@ -1,0 +1,13 @@
+@use "../abstracts/colors" as *;
+
+.btn {
+    border: 3px solid $charleston-green;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.btn-apply {
+    color: #222725;
+    background-color: #E4E6C3;
+}
